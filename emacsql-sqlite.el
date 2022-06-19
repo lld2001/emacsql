@@ -17,8 +17,8 @@
 (require 'cl-lib)
 (require 'cl-generic)
 (require 'eieio)
-(require 'url)
-(require 'url-http)
+;; (require 'url)
+;; (require 'url-http)
 (require 'emacsql)
 
 ;;; SQLite connection
